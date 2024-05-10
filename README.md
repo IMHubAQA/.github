@@ -1,2 +1,1 @@
-# .github
-IMHub - 即时通讯平台
+#IMHub - 即时通讯平台
